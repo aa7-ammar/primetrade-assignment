@@ -13,6 +13,18 @@ frontend/ → React + Tailwind CSS
 - Protected frontend routes
 - Clean, scalable architecture
 
+
+## 📘 API Documentation (Postman)
+
+Postman API documentation is available in the `postman/` folder.
+
+### Files:
+- Backend-Internship-API.postman_collection.json
+- Local-Development.postman_environment.json (optional)
+
+These can be imported directly into Postman for testing all APIs.
+
+
 ## 📦 Setup Instructions
 
 ### Backend
